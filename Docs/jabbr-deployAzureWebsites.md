@@ -42,3 +42,9 @@ Once the validation is complete, navigate to the Azure management window (notice
 ![description](Images/jabbr-azureWebsites-07-repoDeploy.png?raw=true)
 
 Click the check mark icon in the bottom of the wizard, and the site will begin to deploy from source.
+
+### Open Documentation Tasks:
+1. Create PowerShell version of JabbR Azure Website deployment
+1. Add documentation of configuration to JabbR (within app)
+1. Document process to add Azure blob storage
+1. Document configuration of identity providers (Google, Twitter, FB)
