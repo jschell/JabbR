@@ -48,3 +48,4 @@ Click the check mark icon in the bottom of the wizard, and the site will begin t
 1. Add documentation of configuration to JabbR (within app)
 1. Document process to add Azure blob storage
 1. Document configuration of identity providers (Google, Twitter, FB)
+1. Include existing documentation on self hosted install to also be in 'docs' folder
